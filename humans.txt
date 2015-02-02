@@ -1,5 +1,5 @@
 ###########################################################
-#                    Awesome Team
+#                    Pedalai Team
 ############################################################
 
 # humanstxt.org/
@@ -7,26 +7,28 @@
 
 # TEAM
 
-  Designer: First and Last name
-  Contact: http://fb.com/myurl
-  Twitter: @twitter
-  From: Brazil, Pernambuco, Paulista
-
-  Front-End Engineer: First and Last name
-  Contact: http://myurl.com
-  Twitter: @twitter
+  Designer: Edson Luiz
+  Contact: http://fb.com/edson.mobile
   From: Brazil, Pernambuco, Recife
 
-  Back-End Engineer: First and Last name
-  Contact: http://myurl.com
-  Twitter: @twitter
+  Front-End Engineer: Sérgio Hampel
+  Contact: http://fb.com/sergiohampel
   From: Brazil, Pernambuco, Recife
+
+  Front-End Engineer: Thulio Philipe
+  Contact: http://thulioph.com
+  Twitter: @thulioph_
+  From: Brazil, Pernambuco, Recife
+
+  Back-End Engineer: Rayann Nayran
+  Contact: http://fb.com/rayann.rag
+  From: Brazil, Pernambuco, Olinda
 
 
 # PROJECT
 
-  Last update: 2015/01/03
+  Last update: 2015/02/02
   Doctype: HTML5
   IDE: Sublime Text, Chrome Developer Tools
   Standards: HTML5, CSS3, APP.js
-  Components: jQuery, Bootstrap
+  Components: jQuery
