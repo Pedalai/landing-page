@@ -50,7 +50,6 @@ body {
   width: 100%;
   height: 385px;
   position: relative;
-  padding-top: 20px;
   background-color: $bg-primary;
 }
 
@@ -144,16 +143,11 @@ body {
 .nav-primary {
   height: 60px;
   width: 100%;
-  margin-top: 75px;
   text-align: center;
+  position: fixed;
+  z-index: 901;
   border-bottom: 1px solid $border-primary;
   background-color: $bg-featured;
-
-  &.js-nav-active {
-    position: fixed;
-    top: -76px;
-    z-index: 901;
-  }
 }
 
 .nav-item {
@@ -183,7 +177,7 @@ body {
 
 .fork-github {
   img {
-    z-index: 10;
+    z-index: 902;
     position: absolute;
     top: 0;
     right: 0;
@@ -196,7 +190,6 @@ body {
 .section {
   margin: 70px auto 0 auto;
   text-align: center;
-  padding-bottom: 20px;
 
   &.home { @extend %width-fixed; }
   &.about {@extend %width-fixed; }
@@ -343,8 +336,7 @@ body {
 //
 
 .contact {
-  padding: 70px 0;
-  margin-bottom: 70px;
+  padding: 40px 0;
   border-top: 1px solid $border-primary;
   border-bottom: 1px solid $border-primary;
   background-color: $bg-featured;
